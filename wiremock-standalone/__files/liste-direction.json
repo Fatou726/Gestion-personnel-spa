@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "directions": [
+    {
+      "identifiantDirection": 1,
+      "nom": "Direction Informatique",
+      "description": "La direction informatique"
+    },
+    {
+      "identifiantDirection": 2,
+      "nom": "Direction Comptabilite",
+      "description": "La direction comptabilite"
+    },
+    {
+      "identifiantDirection": 3,
+      "nom": "Direction Securtite",
+      "description": "La direction Securtite"
+    }
+  ]
+}
