@@ -10,7 +10,7 @@ export const routes: Routes = [
     {path: 'entreprises', component: ListeEntrepriseComponent},
     {path:'create-entreprise',component:CreateEntrepriseComponent},
     {path:'update-entreprise/:idEntreprise',component:UpdateEntrepriseComponent},
-    {path: 'detail-entreprise/:idEntreprise', component:DetailEntrepriseComponent},
+    {path: 'detail-Entreprise/:idEntreprise', component:DetailEntrepriseComponent},
     {path: '', redirectTo:'entreprises',pathMatch:'full'}
 
 
