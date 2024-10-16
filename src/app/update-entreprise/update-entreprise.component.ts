@@ -33,5 +33,9 @@ export class UpdateEntrepriseComponent {
   goToEntrepriseList(){
     this.router.navigate(['/entreprises'])
   }
+
+  onCancel() {
+    this.goToEntrepriseList(); // Redirige vers la liste des entreprises sans rien créer
+  }
   }
 
